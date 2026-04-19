@@ -7,7 +7,7 @@ Welcome to your Python learning repository! This is your sandbox to write script
 Mark your progress by adding an `x` in the brackets, like this: `[x]`.
 
 ### Level 1: The Basics (`01_basics/`)
-- [ ] Hello World & Print Statements
+- [✓] Hello World & Print Statements
 - [ ] Variables & Data Types (int, float, boolean)
 - [ ] String Manipulation (f-strings, slicing, methods)
 - [ ] Basic Operators (+, -, *, /, //, %, **)
