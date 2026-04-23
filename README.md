@@ -10,7 +10,7 @@ Mark your progress by adding an `x` in the brackets, like this: `[x]`.
 - [✓] Hello World & Print Statements
 - [✓] Variables & Data Types (int, float, boolean)
 - [✓] String Manipulation (f-strings, slicing, methods)
-- [ ] Basic Operators (+, -, *, /, //, %, **)
+- [✓] Basic Operators (+, -, *, /, //, %, **)
 - [ ] Getting User Input (`input()`)
 - [ ] Truthiness / Falsiness (`[]`, `""`, `0`, `None` evaluate to False)
 - [ ] Conditionals (`if`, `elif`, `else`)
