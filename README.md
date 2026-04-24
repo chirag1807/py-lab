@@ -11,7 +11,7 @@ Mark your progress by adding an `x` in the brackets, like this: `[x]`.
 - [✓] Variables & Data Types (int, float, boolean)
 - [✓] String Manipulation (f-strings, slicing, methods)
 - [✓] Basic Operators (+, -, *, /, //, %, **)
-- [ ] Getting User Input (`input()`)
+- [✓] Getting User Input (`input()`)
 - [ ] Truthiness / Falsiness (`[]`, `""`, `0`, `None` evaluate to False)
 - [ ] Conditionals (`if`, `elif`, `else`)
 - [ ] Loops (`for`, `while`) & Loop Controls (`break`, `continue`)
